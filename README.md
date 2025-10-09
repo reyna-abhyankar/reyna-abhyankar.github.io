@@ -2,11 +2,11 @@
 
 ![image](./pfp.jpg)
 
-I build efficient systems for large language models. I am passionate about democratizing access to AI, open-source, and making the most out of our hardware resources.
+I build efficient systems for large language models and agentic workflows. I am passionate about democratizing access to AI, open-source, and making the most out of our hardware resources.
 
 Affiliations: 
-- PhD student at UC San Diego, 
-- Researcher at Together.AI
+- PhD student at UC San Diego
+- Systems Researcher at Together.AI (GPU Kernels)
 - T5 contributor to [FlexFlow-Train](https://github.com/flexflow/flexflow-train)
 
 Outside of work, I love playing piano and guitar, watching the Padres, and playing football.
@@ -22,3 +22,6 @@ Outside of work, I love playing piano and guitar, watching the Padres, and playi
 - [Google Scholar](https://scholar.google.com/citations?user=oG3aWo0AAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/reyna-abhyankar/)
 - [GitHub](https://github.com/reyna-abhyankar)
+
+## Contact Info
+Email me at `vabhyank@ucsd.edu` or `rabhyankar@together.ai`
