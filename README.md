@@ -1,4 +1,4 @@
-## Reyna Abhyankar Personal Website
+## Reyna Abhyankar Personal Page
 
 ![image](./pfp.jpg)
 
@@ -24,4 +24,4 @@ Outside of work, I love playing piano and guitar, watching the Padres, and playi
 - [GitHub](https://github.com/reyna-abhyankar)
 
 ## Contact Info
-Email me at `vabhyank@ucsd.edu` or `rabhyankar@together.ai`
+Email me at `vabhyank@ucsd.edu` or `rabhyankar@together.ai`. I use she/her pronouns.
