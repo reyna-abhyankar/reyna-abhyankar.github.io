@@ -5,7 +5,7 @@
 I build efficient systems for large language models and agentic workflows. I am passionate about democratizing access to AI, open-source, and making the most out of our hardware resources.
 
 Affiliations: 
-- Systems Researcher at Together.AI (GPU Kernels)
+- Senior Systems Researcher at Together.AI (GPU Kernels)
 - PhD student at UC San Diego (on-leave)
 - T5 contributor to [FlexFlow-Train](https://github.com/flexflow/flexflow-train)
 
